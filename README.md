@@ -9,5 +9,5 @@ Website to see latest tweets by major Football Clubs and League handles. Flask e
 2. fullslide.js
 3. Twitter REST API [Click here](https://dev.twitter.com/docs)
 4. Twitter oEmbed API [Click here](https://dev.twitter.com/docs)
-....*To get keys for Twitter API, use [this console](https://apps.twitter.com)
+  *To get keys for Twitter API, use [this console](https://apps.twitter.com)
 5. Flask  [Click here](http://flask.pocoo.org/)
