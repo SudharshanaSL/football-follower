@@ -1,6 +1,5 @@
 # football-follower
 Website to see latest tweets by major Football Clubs and League handles. Flask endpoint to get latest tweets of all handles in one shot.
-<<<<<<< HEAD
 
 >Never share your Twitter API keys with anyone
 
@@ -13,4 +12,3 @@ Website to see latest tweets by major Football Clubs and League handles. Flask e
 ..*To get keys for Twitter API, use [this console](https://apps.twitter.com)
 5. Flask  [Click here](http://flask.pocoo.org/)
 =======
->>>>>>> 8ddd92b0ce17b1a87e38f9eadcafe90db044ec68
